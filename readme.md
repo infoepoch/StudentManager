@@ -10,7 +10,7 @@
 ## 启动
 	1.执行StudentApp main 方法
 	2.浏览器访问 http://localhost:9090/
-	3.
+	3.![列表显示](img_url)
 
 ## 功能
 	1.学生管理系统
